@@ -155,3 +155,4 @@ challenges='home/code/andrerferrer/lewagon/challenges'
 lw='/home/andrerferrer/code/andrerferrer/lewagon/'
 
 export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
