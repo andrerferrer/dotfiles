@@ -158,3 +158,4 @@ lw='/home/andrerferrer/code/andrerferrer/lewagon/'
 export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
 
 alias db-reset='rails db:drop db:create db:migrate db:seed'
+export DISPLAY=172.24.80.1:0
