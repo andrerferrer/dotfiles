@@ -181,3 +181,4 @@ export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
 alias db-reset='rails db:drop db:create db:migrate db:seed'
 export DISPLAY=172.24.80.1:0
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
